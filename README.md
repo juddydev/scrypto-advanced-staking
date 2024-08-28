@@ -1,4 +1,4 @@
-# dusan
+# Yosuke Sora
 
 # Vite + React + TailwindCSS
 
